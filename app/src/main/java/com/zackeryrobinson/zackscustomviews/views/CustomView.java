@@ -14,6 +14,8 @@ import android.view.View;
 
 /**
  * Created by Zack on 10/7/2017.
+ *
+ * Made by following along with https://www.youtube.com/watch?v=sb9OEl4k9Dk&t=372s
  */
 
 public class CustomView extends View {
