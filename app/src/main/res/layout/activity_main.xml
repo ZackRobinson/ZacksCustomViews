@@ -15,7 +15,7 @@
         android:id="@+id/customView"
         />
 
-    <Button
+    <com.zackeryrobinson.zackscustomviews.views.CustomButton
         android:id="@+id/btnSwapColor"
         android:layout_below="@+id/customView"
         android:text="SWAP COLOR"
